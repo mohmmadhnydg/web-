@@ -1,0 +1,82 @@
+*{
+    background-color: #0e0669;
+}
+h1{
+    text-align: center;
+    /* margin: 50px; */
+     margin-top: 10px; 
+    
+    font-family: "coco";
+    font-size: 90px;
+    color:white;
+    /* justify-content: center; */
+     /* margin: auto;   */
+}
+.img2{
+    margin-left: 700px;
+    margin-top: 5px;
+    justify-content: center;
+    text-align: center; 
+   
+}
+.sub-head :hover{
+    color: #7ad800;
+}
+.sub-head{
+    /* margin-left: 60px;  */
+    font-size: xx-large;
+    color: white;
+     text-align: center; 
+    justify-content: center; 
+}
+
+.sub-head a{
+      color: #ffffff;  
+     justify-content: center; 
+     /* color: #7ad800;  */
+     box-shadow: 0 0 14px 5px rgba(255, 245, 104, 0.8) ;
+     border-radius:0.5em;
+     -webkit-border-radius:0.3em;
+     -moz-border-radius:0.3em;
+     -o-border-radius:0.3em;
+
+     
+}
+pre{
+    font-size: x-large;
+     color: beige; 
+    justify-content: center;
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    justify-content: center;
+    color: #7ad800;
+}
+.signup{
+    /* margin-left: 170px;
+    margin-top: 10px; 
+    font-size: 25px;
+    background-color: rgb(1, 1, 31);
+    color: white; */
+    background: #7ad800;
+  padding:0.9em 1.7em;
+  color: rgb(255, 255, 255);
+  font-weight:100px;
+  border-radius:0.5em;
+  -webkit-border-radius:0.3em;
+  -moz-border-radius:0.3em;
+  -o-border-radius:0.3em;
+  border-bottom: 3px solid #487E04;
+  border-left:0px;
+  border-right:0px;
+  border-top:0px;
+  outline: none;
+    font-family: "coco";
+	font-size:21px;
+	text-align:center;
+		display:block;
+		margin: auto;
+        
+}
